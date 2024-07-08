@@ -1,0 +1,14 @@
+######css###
+CSS=> casecading style sheets
+
+ 1.inline css
+ 2.Internal CSS
+ 3.EXternal CSS
+
+
+
+
+
+
+ background-color: red;
+ color: green;
